@@ -1,0 +1,180 @@
+item {
+  id: 1
+  name: "a"
+  display_name: "a"
+}
+item {
+  id: 2
+  name: "b"
+  display_name: "b"
+}
+item {
+  id: 3
+  name: "c"
+  display_name: "c"
+}
+item {
+  id: 4
+  name: "d"
+  display_name: "d"
+}
+item {
+  id: 5
+  name: "e"
+  display_name: "e"
+}
+item {
+  id: 6
+  name: "f"
+  display_name: "f"
+}
+item {
+  id: 7
+  name: "g"
+  display_name: "g"
+}
+item {
+  id: 8
+  name: "h"
+  display_name: "h"
+}
+item {
+  id: 9
+  name: "i"
+  display_name: "i"
+}
+item {
+  id: 10
+  name: "j"
+  display_name: "j"
+}
+item {
+  id: 11
+  name: "k"
+  display_name: "k"
+}
+item {
+  id: 12
+  name: "l"
+  display_name: "l"
+}
+item {
+  id: 13
+  name: "m"
+  display_name: "m"
+}
+item {
+  id: 14
+  name: "n"
+  display_name: "n"
+}
+item {
+  id: 15
+  name: "o"
+  display_name: "o"
+}
+item {
+  id: 16
+  name: "p"
+  display_name: "p"
+}
+item {
+  id: 17
+  name: "q"
+  display_name: "q"
+}
+item {
+  id: 18
+  name: "r"
+  display_name: "r"
+}
+item {
+  id: 19
+  name: "s"
+  display_name: "s"
+}
+item {
+  id: 20
+  name: "t"
+  display_name: "t"
+}
+item {
+  id: 21
+  name: "u"
+  display_name: "u"
+}
+item {
+  id: 22
+  name: "v"
+  display_name: "v"
+}
+item {
+  id: 23
+  name: "w"
+  display_name: "w"
+}
+item {
+  id: 24
+  name: "x"
+  display_name: "x"
+}
+item {
+  id: 25
+  name: "y"
+  display_name: "y"
+}
+item {
+  id: 26
+  name: "z"
+  display_name: "z"
+}
+item {
+  id: 27
+  name: "0"
+  display_name: "0"
+}
+item {
+  id: 28
+  name: "1"
+  display_name: "1"
+}
+item {
+  id: 29
+  name: "2"
+  display_name: "2"
+}
+item {
+  id: 30
+  name: "3"
+  display_name: "3"
+}
+item {
+  id: 31
+  name: "4"
+  display_name: "4"
+}
+item {
+  id: 32
+  name: "5"
+  display_name: "5"
+}
+item {
+  id: 33
+  name: "6"
+  display_name: "6"
+}
+item {
+  id: 34
+  name: "7"
+  display_name: "7"
+}
+item {
+  id: 35
+  name: "8"
+  display_name: "8"
+}
+item {
+  id: 36
+  name: "9"
+  display_name: "9"
+}
